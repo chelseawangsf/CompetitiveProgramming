@@ -30,3 +30,7 @@ echo 'You got to trust me on this, I saved the world'
 **Future Milestone**: 我准备将一些有意思的题目，做成视频的形式给大家参考  
 
 
+| Squence | Problem       | Level  | Language  | Tags | Video Tutorial|
+|:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
+|0|[Count of Smaller Number before itself.java](https://github.com/awangdev/LintCode/blob/master/Java/Count%20of%20Smaller%20Number%20before%20itself.java)|Hard|Java|[]||
+|1|[Evaluate Division.java](https://github.com/awangdev/LintCode/blob/master/Java/Evaluate%20Division.java)|Medium|Java|[BFS, DFS, Graph, Union Find]||
